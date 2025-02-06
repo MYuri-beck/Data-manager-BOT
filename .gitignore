@@ -87,3 +87,6 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+# credential google Drive / Google cloud bot
+credentials.json

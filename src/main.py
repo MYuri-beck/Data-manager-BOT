@@ -1,5 +1,9 @@
 from telegrambot import TelegramBot
+from driveBot import driveBot
 
-bot = TelegramBot()
+##bot = TelegramBot()
 
-bot.start()
+##bot.start()
+driveBot = driveBot()
+
+print(driveBot.get_data())
