@@ -1,7 +1,7 @@
 data_manager_telegramBOT
 ==============================
 
-Um bot do telegram desenvolvido em python que visa automatizar a manipulação e análise de dados através de uma planilha (feito com base em um projeto de "Iury Rosal", disponível no youtube
+Um bot do telegram desenvolvido em python que visa automatizar a manipulação e análise de dados através de uma planilha do google
 
 Project Organization
 ------------
